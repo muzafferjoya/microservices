@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: taskmaster
-          image: muzafferjoya/taskapi:latest
+          image: muzafferjoya/flask-api:1
           ports:
             - containerPort: 5000
           imagePullPolicy: Always

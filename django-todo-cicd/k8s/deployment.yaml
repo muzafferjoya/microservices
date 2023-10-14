@@ -34,7 +34,7 @@ spec:
 
       - name: todo-app
 
-        image: muzafferjoya/todoapp:latest
+        image: muzafferjoya/django-todo-app:1
 
         ports:
 
